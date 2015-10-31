@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <acm.utsa.campusrunner.MyEditTextPreference
+        android:title="Your Name"
+        android:key="username"
+        android:summary="Current Name: %s"/>
+
+    <CheckBoxPreference android:title="Be Awesome"
+        android:defaultValue="false"
+        android:summary="Everything is awesome!"
+        android:key="awesome"
+        android:checked="true"
+        android:enabled="false"
+        />
+
+</PreferenceScreen>

@@ -1,0 +1,48 @@
+Chick-Fil-A 1
+29.582662 -98.619910
+JPL Food Court
+Chili's Too 1
+29.583490 -98.620910
+University Center
+Subway 2
+29.583076 -98.620401
+University Center
+29.584459 -98.617660
+JPL Food Court
+Papa John's 1
+29.584660, -98.617734
+JPL Food Court
+MooYah 1
+29.583598 -98.620793
+University Center
+Panda Express 1
+29.583650 -98.620682
+University Center
+Starbucks 2
+29.584108 -98.617643
+JPL Food Court
+29.583780 -98.620458
+Einstein Bros Bagels 1
+29.585253 -98.617766
+Biosciences & Engineering Building
+Smoothie King 1
+29.584492 -98.617769
+JPL Food Court
+Sushic 1
+29.584380 -98.617674
+JPL Food Court
+RFOC 1
+29.585712 -98.624483
+Roadrunner Cafe
+P.O.D 4
+29.585507 -98.624790
+Roadrunner Cafe
+29.584585 -98.616774
+Main Building
+29.582831 -98.618632
+Flawn Sciences Building
+29.584326 -98.619114
+McKinney Humanities Building
+C3 Store 1
+29.583367 -98.619414
+Multidisciplinary Studies Building
